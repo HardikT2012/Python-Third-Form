@@ -1,1 +1,9 @@
-print("hi")
+
+print("In today's swim race its:")
+print("")
+
+Swimmer1_Name = "Raj"
+Swimmer2_Name = "Saha"
+Swimmer3_Name = "Rik"
+
+print(Swimmer1_Name, "vs",Swimmer2_Name, "vs",Swimmer3_Name)
