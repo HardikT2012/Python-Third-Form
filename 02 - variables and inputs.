@@ -6,3 +6,23 @@ TeamOneScore = 0
 TeamTwoScore = 0
 print("The game has now begun")
 print("The score is" ,TeamOneScore, TeamTwoScore) 
+
+explanation:
+ This code stores Fifa in a variable called "game". It then prints lets play with the game name. 
+After, there are 2 variables that store the score of both teams before printing it out. 
+
+
+Task 2
+
+name = input("Enter your name: ") 
+print("Hello,", name) 
+
+explanation:
+prints the users name.
+
+age = int(input("Enter your age: "))
+print("You are," , age)
+
+explanation:
+prints the users age.
+
