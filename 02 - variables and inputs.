@@ -5,4 +5,4 @@ print("Let's play", game)
 TeamOneScore = 0
 TeamTwoScore = 0
 print("The game has now begun")
-print("The score is" ,TeamOneScore, TeamTwoScore)
+print("The score is" ,TeamOneScore, TeamTwoScore) 
