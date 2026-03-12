@@ -61,7 +61,7 @@ print("the new price for", item, "is", discount)
 		○ Print: "Access Granted: [is_allowed]".
 	
 	
-	Answer:
+	Answer: 
 
 
 
