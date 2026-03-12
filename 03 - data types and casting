@@ -18,7 +18,7 @@
 		B) char = "A"
 		C) char = [A]
 	
-	Answer: 
+	Answer: A
 	
 	
 	4. A Boolean value in Python must always start with a capital letter (e.g., True instead of true). Is this true or false? 
@@ -43,7 +43,13 @@
 		○ The price must be a Float
 		○ Calculate a 10% discount (Price multiplied by 0.9) and print: "The new price for [item] is [discounted price]", where ‘[item]’ and ‘[discounted price]’ is where you reference your variables.
 	
-	Answer: 
+	Answer: item = input("what is your item?")
+
+price = float(input("what is the price?"))
+
+discount = round(price * 0.9, 2)
+
+print("the new price for", item, "is", discount)
 	
 	
 	
