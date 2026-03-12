@@ -1,14 +1,14 @@
 
 	1. Match the value to its Python data type.
-		○ "Game Over" is a ______________
-		○ 42 is an ______________
-		○ 0.5 is a ______________
-		○ False is a ______________
+		○ "Game Over" is a string
+		○ 42 is an integer
+		○ 0.5 is a float
+		○ False is a boolean
 	
 	
 
 	
-	2. In Python, we use the _________() function to turn a String into a whole number, and the _________() function to turn a String into a decimal number.
+	2. In Python, we use the int() function to turn a String into a whole number, and the () function to turn a String into a decimal number.
 	
 	
 
