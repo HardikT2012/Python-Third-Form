@@ -1,1 +1,19 @@
+code = "python"
+
+user = input("Enter the secret code:")
+
+if user == "python":
+    print("access granted")
+else:
+    print("access denied")
+
+
+
+num = int(input("Enter a number:"))
+
+if num % 2 == 0:
+    print("even number")
+else:
+    print("odd number")
+
 
